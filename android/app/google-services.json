@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "864393196344",
+    "project_id": "djeverywhere-ece92",
+    "storage_bucket": "djeverywhere-ece92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864393196344:android:3a3b24d59ddc70a35c07cd",
+        "android_client_info": {
+          "package_name": "com.flutterflow.djeverywhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864393196344-pmbaia8b0c89e5ggq135q7r258sr4a1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_XBsWdMjUGf8B8j5svTvAoKKf8LfG8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864393196344-pmbaia8b0c89e5ggq135q7r258sr4a1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864393196344-5405ub8l2nnlrirlp2rco7fhqvdpur2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.djeverywhere"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
