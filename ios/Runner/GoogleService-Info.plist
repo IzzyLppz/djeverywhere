@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>864393196344-5405ub8l2nnlrirlp2rco7fhqvdpur2r.apps.googleusercontent.com</string>
+	<string>598170809614-4tvlpu12li6es6aroqp3heh3mh9g792k.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.864393196344-5405ub8l2nnlrirlp2rco7fhqvdpur2r</string>
+	<string>com.googleusercontent.apps.598170809614-4tvlpu12li6es6aroqp3heh3mh9g792k</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCo2IcoPVyBcaGcCK9TG1Mw5gTq5wb5R3I</string>
+	<string>AIzaSyAdZv9DnHurUXEmU4hb3KbXzijKUlB98mY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>864393196344</string>
+	<string>598170809614</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.flutterflow.djeverywhere</string>
 	<key>PROJECT_ID</key>
-	<string>djeverywhere-ece92</string>
+	<string>djevery</string>
 	<key>STORAGE_BUCKET</key>
-	<string>djeverywhere-ece92.appspot.com</string>
+	<string>djevery.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:864393196344:ios:2ec5e28d1dcfb2b05c07cd</string>
+	<string>1:598170809614:ios:fd0d1fcc67d2285143135f</string>
 </dict>
 </plist>

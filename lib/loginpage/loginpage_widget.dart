@@ -1,5 +1,4 @@
 import '../auth/auth_util.dart';
-import '../backend/backend.dart';
 import '../flutter_flow/flutter_flow_theme.dart';
 import '../flutter_flow/flutter_flow_util.dart';
 import '../flutter_flow/flutter_flow_widgets.dart';
@@ -204,18 +203,6 @@ class _LoginpageWidgetState extends State<LoginpageWidget> {
                                 if (user == null) {
                                   return;
                                 }
-
-                                final email = emailTextController.text;
-                                final displayName = passwordTextController.text;
-
-                                final usersRecordData = createUsersRecordData(
-                                  email: email,
-                                  displayName: displayName,
-                                );
-
-                                await UsersRecord.collection
-                                    .doc(user.uid)
-                                    .update(usersRecordData);
 
                                 await Navigator.pushAndRemoveUntil(
                                   context,

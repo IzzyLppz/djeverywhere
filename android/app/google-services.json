@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "864393196344",
-    "project_id": "djeverywhere-ece92",
-    "storage_bucket": "djeverywhere-ece92.appspot.com"
+    "project_number": "598170809614",
+    "project_id": "djevery",
+    "storage_bucket": "djevery.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:864393196344:android:3a3b24d59ddc70a35c07cd",
+        "mobilesdk_app_id": "1:598170809614:android:835853da02b04a0543135f",
         "android_client_info": {
           "package_name": "com.flutterflow.djeverywhere"
         }
       },
       "oauth_client": [
         {
-          "client_id": "864393196344-pmbaia8b0c89e5ggq135q7r258sr4a1g.apps.googleusercontent.com",
+          "client_id": "598170809614-hr7619kdli3otpidou2andfa1gjalm1a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB5_XBsWdMjUGf8B8j5svTvAoKKf8LfG8c"
+          "current_key": "AIzaSyD0Oqe6B7QAv7F4l-dedjjR6dAnliGsQYc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "864393196344-pmbaia8b0c89e5ggq135q7r258sr4a1g.apps.googleusercontent.com",
+              "client_id": "598170809614-hr7619kdli3otpidou2andfa1gjalm1a.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "864393196344-5405ub8l2nnlrirlp2rco7fhqvdpur2r.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.flutterflow.djeverywhere"
-              }
             }
           ]
         }
